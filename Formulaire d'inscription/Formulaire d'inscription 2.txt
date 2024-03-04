@@ -1,0 +1,6 @@
+﻿Génération démarrée à 18:45...
+1>------ Début de la génération : Projet : Formulaire d'inscription 2, Configuration : Debug Any CPU ------
+1>Les analyseurs ont été ignorés pour accélérer la génération. Vous pouvez exécuter la commande « Build » ou « Rebuild » pour exécuter des analyseurs.
+1>Formulaire d'inscription 2 -> C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription 2\bin\Debug\net8.0-windows\Formulaire d'inscription 2.dll
+========== Build : 1 réussite(s), 0 échec(s), 0 à jour, 0 ignorée(s) ==========
+========== Build s’est terminée à 18:45 et a duré 01,324 secondes ==========

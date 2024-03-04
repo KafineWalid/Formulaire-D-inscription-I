@@ -1,0 +1,16 @@
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\bin\Debug\net8.0-windows\Formulaire d'inscription.exe
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\bin\Debug\net8.0-windows\Formulaire d'inscription.deps.json
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\bin\Debug\net8.0-windows\Formulaire d'inscription.runtimeconfig.json
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\bin\Debug\net8.0-windows\Formulaire d'inscription.dll
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\bin\Debug\net8.0-windows\Formulaire d'inscription.pdb
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\Formulaire_d_inscription.Form1.resources
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\Formulaire d'inscription.vbproj.GenerateResource.cache
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\Formulaire d'inscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\Formulaire d'inscription.AssemblyInfoInputs.cache
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\Formulaire d'inscription.AssemblyInfo.vb
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\Formulaire d'inscription.vbproj.CoreCompileInputs.cache
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\Formulaire d'inscription.dll
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\refint\Formulaire d'inscription.dll
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\Formulaire d'inscription.pdb
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\Formulaire d'inscription.genruntimeconfig.cache
+C:\Users\prins\Downloads\Nouveau dossier\Formulaire d'inscription\obj\Debug\net8.0-windows\ref\Formulaire d'inscription.dll
